@@ -1,6 +1,6 @@
-# Scrapping Popular WallStreetBets Stonks 
+# Fetching Popular WallStreetBets Stonks 
 
-This Python application uses Reddit APIs via PushShift to collect the submissions(posts,comments) from popular subreddit forum r/wallstreetbets and look for highly mentioned stocks finaly storing them in PostgreSQL DB
+This Python application uses Reddit APIs via PushShift to collect the submissions(posts,comments) from popular subreddit forum r/wallstreetbets and look for highly mentioned stocks finally storing them in PostgreSQL DB
 
 ## Video Description of the App
 
